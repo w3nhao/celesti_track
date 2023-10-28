@@ -1,0 +1,349 @@
+2023-10-26 11:03:47,983 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:03:47,983 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:03:47,984 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:03:47,984 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:03:55,378 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:03:56,382 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:03:56,383 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:03:56,385 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:03:56,386 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:00,406 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:01,409 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:01,410 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:01,412 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:01,413 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:05,492 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:06,495 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:06,496 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:06,498 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:06,499 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:14,528 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:15,532 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:15,533 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:15,535 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:15,536 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:19,583 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:20,585 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:20,586 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:20,586 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:20,587 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:26,277 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:27,278 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:27,279 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:27,280 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:27,280 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:44,930 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:45,931 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:45,932 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:45,932 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:45,932 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:04:53,659 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:04:54,663 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:04:54,664 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:04:54,666 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:04:54,667 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:05:00,675 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:05:01,678 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:05:01,680 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:05:01,681 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:05:01,682 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:05:10,461 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:05:11,464 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:05:11,464 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:05:11,465 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:05:11,465 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:05:24,285 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:05:31,399 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:05:31,399 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:05:31,400 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:05:31,400 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:05:37,153 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:05:38,157 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:05:38,158 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:05:38,160 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:05:38,161 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:05:54,410 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:05:55,414 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:05:55,415 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:05:55,417 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:05:55,418 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:00,211 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:01,214 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:01,215 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:01,217 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:01,218 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:11,446 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:12,450 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:12,451 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:12,453 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:12,454 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:32,028 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:33,032 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:33,033 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:33,035 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:33,036 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:38,761 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:39,764 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:39,765 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:39,767 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:39,768 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:46,512 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:47,515 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:47,516 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:47,518 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:47,519 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:06:50,616 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:06:51,619 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:06:51,620 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:06:51,622 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:06:51,623 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:07:02,377 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:07:03,381 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:07:03,382 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:07:03,384 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:07:03,385 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:07:18,793 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:07:19,797 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:07:19,798 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:07:19,800 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:07:19,801 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:07:22,903 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:01,751 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:01,753 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:01,754 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:01,755 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:08:05,716 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:06,720 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:06,721 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:06,723 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:06,724 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:08:22,289 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:23,292 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:23,293 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:23,295 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:23,296 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:08:34,857 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:35,860 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:35,861 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:35,863 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:35,864 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:08:41,470 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:42,473 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:42,474 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:42,476 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:42,477 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:08:51,520 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:08:52,524 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:08:52,525 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:08:52,527 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:08:52,528 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:01,400 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:09:02,403 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:09:02,405 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:09:02,406 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:09:02,407 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:09,864 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:09:10,868 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:09:10,870 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:09:10,872 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:09:10,873 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:25,958 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:09:26,961 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:09:26,962 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:09:26,964 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:09:26,965 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:38,347 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:09:39,351 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:09:39,352 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:09:39,353 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:09:39,354 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:47,993 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:09:48,996 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:09:48,997 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:09:48,999 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:09:49,000 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:09:59,018 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:14:29,575 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:14:29,576 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:14:29,578 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:14:29,578 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:14:42,216 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:14:43,220 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:14:43,221 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:14:43,223 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:14:43,224 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:14:55,438 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:14:56,441 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:14:56,442 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:14:56,444 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:14:56,445 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:15:10,642 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:15:11,646 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:15:11,647 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:15:11,650 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:15:11,650 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:15:22,781 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:15:23,784 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:15:23,786 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:15:23,788 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:15:23,789 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:15:34,883 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:15:35,887 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:15:35,888 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:15:35,890 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:15:35,891 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:15:52,773 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:15:53,776 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:15:53,778 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:15:53,779 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:15:53,780 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:16:05,509 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:16:06,512 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:16:06,513 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:16:06,515 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:16:06,516 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:16:10,570 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:16:11,573 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:16:11,574 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:16:11,576 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:16:11,577 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:16:20,680 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:16:21,684 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:16:21,685 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:16:21,687 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:16:21,689 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:16:35,701 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:16:36,705 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:16:36,706 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:16:36,708 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:16:36,708 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:16:39,798 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:17:37,106 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:17:37,107 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:17:37,108 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:17:37,109 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:17:37,227 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:17:38,230 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:17:38,232 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:17:38,234 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:17:38,234 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:17:49,424 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:17:50,427 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:17:50,428 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:17:50,430 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:17:50,431 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:17:56,821 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:17:57,824 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:17:57,825 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:17:57,827 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:17:57,828 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:14,606 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:15,610 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:15,611 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:15,613 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:15,614 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:26,753 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:27,756 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:27,757 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:27,759 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:27,760 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:31,803 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:32,807 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:32,808 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:32,810 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:32,811 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:38,138 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:39,141 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:39,142 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:39,144 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:39,145 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:46,488 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:47,492 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:47,493 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:47,495 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:47,496 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:18:54,049 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:18:55,053 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:18:55,054 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:18:55,056 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:18:55,057 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:19:12,034 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:19:13,038 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:19:13,039 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:19:13,041 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:19:13,042 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:19:20,414 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:19:28,774 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:19:28,775 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:19:28,776 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:19:28,777 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:19:31,860 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:19:32,863 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:19:32,864 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:19:32,866 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:19:32,867 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:19:35,960 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:19:36,964 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:19:36,965 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:19:36,967 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:19:36,968 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:19:45,579 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:19:46,583 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:19:46,584 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:19:46,586 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:19:46,587 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:05,746 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:06,750 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:06,751 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:06,753 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:06,754 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:22,699 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 5 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:23,704 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:23,705 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:23,707 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:23,708 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:30,049 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 6 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:31,053 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:31,054 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:31,056 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:31,057 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:31,167 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 7 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:32,170 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:32,171 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:32,173 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:32,174 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:40,915 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 8 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:41,919 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:41,920 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:41,922 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:41,923 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:20:47,532 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 9 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:20:48,536 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:20:48,537 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:20:48,539 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:20:48,540 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:21:07,130 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 10 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:21:08,133 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:21:08,134 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:21:08,136 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:21:08,137 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:21:22,593 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 11 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:58:20,779 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:58:20,780 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:58:20,781 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:58:20,782 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:58:25,959 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:58:26,963 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:58:26,964 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:58:26,966 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:58:26,966 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:58:35,845 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:58:36,848 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:58:36,849 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:58:36,851 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:58:36,852 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373
+2023-10-26 11:58:47,852 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 11:58:48,855 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+2023-10-26 11:58:48,856 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
+2023-10-26 11:58:48,858 - simulator_logger     - INFO     - [helpers.py:53] - Units of the simulation: {'length': 'au', 'mass': 'msun', 'time': 'yr'}
+2023-10-26 11:58:48,859 - simulator_logger     - INFO     - [helpers.py:54] - Gravity constant of the simulation: 39.476926421373

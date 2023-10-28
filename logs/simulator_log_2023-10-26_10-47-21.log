@@ -1,0 +1,3 @@
+2023-10-26 10:47:22,917 - simulator_logger     - DEBUG    - [helpers.py:53] - Type: <class 'float'>
+2023-10-26 10:47:22,917 - simulator_logger     - DEBUG    - [helpers.py:54] - Mass of Sun: False
+2023-10-26 10:47:22,917 - simulator_logger     - DEBUG    - [helpers.py:55] - Mass of Sun: -4.972799949598539e-12

@@ -1,0 +1,4 @@
+2023-10-26 10:24:23,677 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 1 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 10:24:27,773 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 2 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 10:24:40,027 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 3 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
+2023-10-26 10:24:54,209 - simulator_logger     - DEBUG    - [helpers.py:19] - Attempt 4 failed with error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>
