@@ -1,3 +1,0 @@
-2023-10-26 10:51:50,517 - simulator_logger     - INFO     - [helpers.py:48] - Fetching bodies: ['Sun', 'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
-2023-10-26 10:51:50,517 - simulator_logger     - INFO     - [helpers.py:49] - Fetching bodies on date: 2023-10-26 00:00:00
-2023-10-26 10:51:50,518 - simulator_logger     - INFO     - [helpers.py:52] - Units of the simulation: {'length': None, 'mass': None, 'time': None}

@@ -7,9 +7,6 @@ This is a simple N-body simulation of Celestials.
 
 
 
-
-
-
 #### Remaining Questions
 1. 2D vs 3D
 

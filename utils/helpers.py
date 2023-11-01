@@ -1,6 +1,7 @@
 import time
 import rebound
 from functools import wraps
+import numpy as np
 from .loggers import sim_logger_instance as sim_logger
 
 DEFAULT_CELESTIALS = ["Sun", "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
@@ -25,7 +26,7 @@ def retry_on_exception(n_retry, delay_s, debug=False):
     return decorator
 
 @retry_on_exception(n_retry=10, delay_s=1, debug=True)
-def fetch_solar_system_bodies(bodies=DEFAULT_CELESTIALS, date="2023-10-26 00:00:00"):
+def fetch_solar_system_bodies(bodies=DEFAULT_CELESTIALS, date="2023-10-26 00:00:00", units=("AU", "yr", "Msun")):
     """ 
     Fetch the solar system bodies from rebound based on the given date.
     All bodies are added to the simulation and then moved to the center of momentum frame.
@@ -49,7 +50,7 @@ def fetch_solar_system_bodies(bodies=DEFAULT_CELESTIALS, date="2023-10-26 00:00:
     sim_logger.info(f"Fetching bodies on date: {date}")
     
     # log the units of the simulation
-    sim.units = ["AU", "yr", "Msun"]
+    sim.units = units
     sim_logger.info(f"Units of the simulation: {sim.units}")
     sim_logger.info(f"Gravity constant of the simulation: {sim.G}")
     
@@ -59,8 +60,8 @@ def fetch_solar_system_bodies(bodies=DEFAULT_CELESTIALS, date="2023-10-26 00:00:
         
         # sim_logger.debug(f"Mass of {body}: {sim.particles[-1].m}")
 
-    # Moving to the center of momentum frame
-    sim.move_to_com()
+    # # Moving to the center of momentum frame
+    # sim.move_to_com()
     
     # Extract parameters and save to dict
     data = {}
@@ -73,3 +74,29 @@ def fetch_solar_system_bodies(bodies=DEFAULT_CELESTIALS, date="2023-10-26 00:00:
         data[bodies[i]] = body_data  # Using the body name as the key
         
     return data
+
+def generate_sample_idxs(n, total_steps, interval="equal"):
+    if interval == "equal":
+        step_size = (total_steps-1) // (n-1)
+        idxs = np.arange(0, step_size*n, step_size)
+    
+    elif interval == "log":
+        # Generate n-1 gaps that grow logarithmically, then find the cumulative sum
+        gaps = np.logspace(0, np.log10(total_steps), n) - 1
+        gaps = gaps / gaps.sum() * (total_steps - n) 
+        idxs = np.insert(np.cumsum(gaps), 0, 0).astype(int)
+    
+    elif interval == "exp":
+        # Generate n-1 gaps that grow exponentially
+        base = (total_steps / n) ** (1/(n-1))
+        gaps = base ** np.arange(n-1)
+        gaps = gaps / gaps.sum() * (total_steps - n)
+        idxs = np.insert(np.cumsum(gaps), 0, 0).astype(int)
+    
+    elif interval == "random":
+        idxs = np.sort(np.random.choice(total_steps, n, replace=False))
+    
+    else:
+        raise ValueError(f"Unknown interval type: {interval}")
+
+    return idxs.tolist()
