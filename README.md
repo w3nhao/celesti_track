@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # N-Body Celestials Simulation
 
 ### Description
@@ -47,7 +41,7 @@ Regardless of how and where the bodies are initialized, the states of these init
     [Details explaination](https://rebound.readthedocs.io/en/latest/ipython_examples/Units/) about the units and gravitational constant.
 
 
-##### Data in Hamiltonian NN
+##### Compared with data in Hamiltonian NN
 1. Properies (State)
     - mass (m)
     - position (x, y)
