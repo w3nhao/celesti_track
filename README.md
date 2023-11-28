@@ -8,7 +8,7 @@ This is a simple N-body simulation of Celestials.
 
 
 #### Remaining Questions
-1. 2D vs 3D
+1. 2D vs 3D: For now we choose to use 3D, but we can also use 2D.
 
 2. System invariance and consistency of state  
 Regardless of how and where the bodies are initialized, the states of these initialized points should also be consistent.
