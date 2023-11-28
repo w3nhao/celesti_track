@@ -22,8 +22,8 @@ Regardless of how and where the bodies are initialized, the states of these init
 #### Celestial Bodies
 1. Properties
     - mass (m)
-    - position (x, y)
-    - velocity (vx, vy)
+    - position (x, y, z)
+    - velocity (vx, vy, vz)
 
 2. Default Units
     - \( G = 1 \)
